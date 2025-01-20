@@ -4,32 +4,33 @@
 </div> 
 <br>
 <details open>
-    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am Data Engineer  <img src="./Image/cat-coder.gif" width="30px"> Aspiring Web Developer</p>
-    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
-    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <summary align="center"><h2> <img alt="GIF" src="./images/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am Data Engineer  <img src="./images/cat-coder.gif" width="30px"> Aspiring Web Developer</p>
+    <img align="right" alt="GIF" src="./images/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./images/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+        <li><a><img alt="GIF" src="./images/books.gif" width="30px"/>&nbsp; I am a Data Engg.</a></li><br>
+        <li><a><img alt="GIF" src="./images/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
     </ul>
+
+---
+### What You'll Find Here
+- **Python Projects**: Showcasing expertise in Python, MySql
+- **Full-Stack Applications**: Combining backend power with frontend skills, using JavaScript, and modern frameworks.
+- **LeetCode Practice Repository**: My problem-solving journey is categorized and documented.
+- **Experimental Code**: Exploring tools, frameworks, and new ideas.
+---
 <br>
+
 </details>
 <details open>
-<summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
+<summary align="center"><h2 ><img alt="GIF" src="./images//handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
-    <a href="https://t.me/K1rsN7" target="_blank">
-    <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
-    </a>
-    <a href="https://vk.com/K1rsN7" target="_blank">
-    <img lign="left" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>  
-    </a>
     <a href="https://discord.com/users/519507183436824587/" target="_blank">
     <img lign="left" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" width="40" height="40" alt="Discord"/> 
     </a>
     <a href="https://www.kaggle.com/k1rsn7" target="_blank">
-    <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+    <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="LinkedIn"/>
     </a>
 </div>
 <br>
@@ -39,24 +40,14 @@
 <div align="center">
     <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img alt="PostgreSQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
     <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
     <a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-    <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
-    <a href="https://seaborn.pydata.org/#" target="_blank"> <img alt="seaborn" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" /></a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>  
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
-    <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
-    <a href="https://docs.ultralytics.com/" target="_blank"> <img alt="YOLO" height="42px"  src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" /></a>
-    <a href="https://catboost.ai/" target="_blank"> <img alt="CatBoost" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" /></a>
-     <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
-    <a href="https://archlinux.org/" target="_blank"> <img alt="Arch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
        
 </div>
 </details>
 <details>
-<summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px">Other Languages and Tools </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="./images/laptop_code.gif" width="25px">Other Languages and Tools </h2></summary>
 <div align="center">
     <p></p> 
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
@@ -80,48 +71,22 @@
 </div>
 </details>
 <details open>
-<summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="./images//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_17.png" target="_blank"> <img height ="150px"  src="./Image/diploma_17.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_16.png" target="_blank"> <img height ="150px"  src="./Image/diploma_16.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_15.png" target="_blank"> <img height ="150px"  src="./Image/diploma_15.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_14.png" target="_blank"> <img height ="150px"  src="./Image/diploma_14.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_13.png" target="_blank"> <img height ="150px"  src="./Image/diploma_13.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_12.png" target="_blank"> <img height ="150px"  src="./Image/diploma_12.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_11.png" target="_blank"> <img height ="150px"  src="./Image/diploma_11.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_10.png" target="_blank"> <img height ="150px"  src="./Image/diploma_10.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_9.png" target="_blank"> <img height ="150px"  src="./Image/diploma_9.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_8.png" target="_blank"> <img height ="150px"  src="./Image/diploma_8.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.5.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma4.5.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a>
-  </div>
-    <br>
-</details>
-<details open>
-<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
-  <div align="center">
-    <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+    <img height="192px" alt="dtwalia506's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtwalia506&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=dtwalia506&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+<!--       <img src="https://wakatime.com/share/@dtwalia506/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
-  </div>
+<!--       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dtwalia506&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000"> -->
+  <a href="https://github.com/dtwalia506/dtwalia506"><img alt="dtwalia506's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dtwalia506&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+<!--   <img src="https://wakatime.com/share/@dtwalia506/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg"> -->
+</div>
 
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1rsN7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dtwalia506}/count.svg" /></p> 
 </div>
 <br>
 </details>
