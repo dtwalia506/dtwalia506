@@ -26,11 +26,11 @@
 <details open>
 <summary align="center"><h2 ><img alt="GIF" src="./images//handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
-    <a href="https://discord.com/users/519507183436824587/" target="_blank">
+    <a href="https://discord.com/users/510127423023611916/" target="_blank">
     <img lign="left" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" width="40" height="40" alt="Discord"/> 
     </a>
-    <a href="https://www.kaggle.com/k1rsn7" target="_blank">
-    <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/aditya-walia/" target="_blank">
+    <img lign="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="40" height="40" alt="LinkedIn"/>
     </a>
 </div>
 <br>
