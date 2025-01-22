@@ -5,11 +5,11 @@
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./images/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am Data Engineer  <img src="./images/cat-coder.gif" width="30px"> Aspiring Web Developer</p>
+    <p align="center">Aspiring Web Developer <img src="./images/cat-coder.gif" width="30px"> </p>
     <img align="right" alt="GIF" src="./images/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./images/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li><a><img alt="GIF" src="./images/books.gif" width="30px"/>&nbsp; I am a Data Engg.</a></li><br>
+        <li><a><img alt="GIF" src="./images/books.gif" width="30px"/>&nbsp; I am a Data Engg. Learning full stack web development because I think it's fun.</a></li><br>
         <li><a><img alt="GIF" src="./images/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
     </ul>
 
