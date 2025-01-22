@@ -11,11 +11,13 @@
     <ul>
         <li><a><img alt="GIF" src="./images/books.gif" width="30px"/>&nbsp; I am a Data Engg. Learning full stack web development because I think it's fun.</a></li><br>
         <li><a><img alt="GIF" src="./images/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+        <li><a><img alt="GIF" src="./images/Anime.gif" width="30px" />&nbsp; Binge Watcher.</a></li><br>
     </ul>
 
 ---
 ### What You'll Find Here
-- **Python Projects**: Showcasing expertise in Python, MySql
+- **Journery**: Mostly you will see my web dev journey here where I learn new skills and showcase them here to keep me motivated.
+- **Projects**: Showcasing expertise in Python, MySql or frontend projects.
 - **Full-Stack Applications**: Combining backend power with frontend skills, using JavaScript, and modern frameworks.
 - **LeetCode Practice Repository**: My problem-solving journey is categorized and documented.
 - **Experimental Code**: Exploring tools, frameworks, and new ideas.
@@ -49,23 +51,13 @@
 <details>
 <summary align="center"><h2><img alt="GIF" src="./images/laptop_code.gif" width="25px">Other Languages and Tools </h2></summary>
 <div align="center">
-    <p></p> 
-    <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+    <p></p>
     <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-    <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
-    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
     <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
-    <a href="https://www.blender.org/" target="_blank"> <img alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /></a>
-    <a href="https://www.php.net/" target="_blank"> <img alt="PHP" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
-    <a href="https://developer.android.com/studio" target="_blank"> <img alt="Android Studio" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /></a>
-    <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
     <br>
     <p></p>
 </div>
